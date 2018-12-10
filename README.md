@@ -1,2 +1,1 @@
-# docs
-Docs
+# Wiki
